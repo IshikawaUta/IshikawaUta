@@ -1,3 +1,1 @@
-<p>+-+-+-+-+-+-+-+ +-+-+ +-+-+ +-+-+-+-+-+-+</p>
-<p>|W|E|L|C|O|M|E| |T|O| |M|Y| |G|I|T|H|U|B|</p>
-<p>+-+-+-+-+-+-+-+ +-+-+ +-+-+ +-+-+-+-+-+-+</p>
+<p style="color:cyan;font-family:courier;">WELCOME TO MY GITHUB</p>
