@@ -9,6 +9,7 @@
 </div>
 <img align="center" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 <h3> 👨🏻‍💻 About Me </h3>
+
 - 🔭 &nbsp; I’m zero.
 - 🤔 &nbsp; Learn python and html language and linux penetration.
 - 🎓 &nbsp; Study Computer Science, computer programming and computer security.
