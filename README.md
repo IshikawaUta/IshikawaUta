@@ -1,1 +1,7 @@
-<p style="color:green;">WELCOME TO MY GITHUB</p>
+<style>
+  p{
+    color : blue;
+    font-family : courier new;
+  }
+</style>
+<p>WELCOME TO MY GITHUB</p>
