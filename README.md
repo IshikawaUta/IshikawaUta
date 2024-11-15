@@ -1,7 +1,7 @@
 <div align="center">
 <a href="https://IshikawaUta.blogspot.com">
     <img
-        src="https://readme-typing-svg.herokuapp.com?font=ShadowsIntoLightsize=50&duration=5500&color=DC143C&background=FF673200&center=true&vCenter=true&lines=WELCOME+TO+MY+GITHUB+😁;I+am+IshikawaUta😎"
+        src="https://readme-typing-svg.herokuapp.com?font=ShadowsIntoLightsize=50&duration=5500&color=7FFF00&background=A9A9A9&center=true&vCenter=true&lines=WELCOME+TO+MY+GITHUB+😁;I+am+IshikawaUta😎"
             alt="Typing SVG"
         />
     </a>
