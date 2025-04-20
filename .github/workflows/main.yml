@@ -54,8 +54,8 @@ jobs:
           build_dir: dist
           commit_message: Update snake animations
         env:
-          # Kita tidak perlu lagi menyediakan GITHUB_TOKEN untuk push karena sudah menggunakan SSH
-          # SSH_PRIVATE_KEY sudah diatur oleh action webfactory/ssh-agent
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          SSH_PRIVATE_KEY: ${{ secrets.DEPLOY_KEY }}
           GIT_AUTHOR_NAME: github-actions[bot]
           GIT_AUTHOR_EMAIL: github-actions[bot]@users.noreply.github.com
           GIT_COMMITTER_NAME: github-actions[bot]
