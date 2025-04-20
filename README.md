@@ -8,12 +8,6 @@
 </p>
 </div>
 
-## Contributions
-<div>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/IshikawaUta/IshikawaUta/output/github-contribution-grid-snake.svg" />
-  <br/><br/><br/>
-</div>
-
 [![IshikawaUta github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=IshikawaUta&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <h3> 👨🏻‍💻 About Me </h3>
 
