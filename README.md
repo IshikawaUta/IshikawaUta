@@ -9,6 +9,7 @@
 </div>
 
 ## Contributions
+<div>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/IshikawaUta/IshikawaUta/output/github-contribution-grid-snake.svg" />
   <br/><br/><br/>
 </div>
