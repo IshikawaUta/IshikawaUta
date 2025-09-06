@@ -1,14 +1,8 @@
+<!-- Snake animation -->
 <div align="center">
-<a href="https://IshikawaUta.blogspot.com">
-    <img
-        src="https://readme-typing-svg.herokuapp.com?font=ShadowsIntoLightsize=50&duration=5500&color=7FFF00&background=ffffff&center=true&vCenter=true&lines=WELCOME+TO+MY+GITHUB+😁;I'am+IshikawaUta+😎"
-            alt="Typing SVG"
-        />
-    </a>
-</p>
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
-[![IshikawaUta github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=IshikawaUta&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; I’m zero.
