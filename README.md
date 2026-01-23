@@ -1,7 +1,4 @@
-<!-- Snake animation -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
+![Snake animation](https://raw.githubusercontent.com/IshikawaUta/IshikawaUta/output/github-contribution-grid-snake.svg)
 
 <h3> 👨🏻‍💻 About Me </h3>
 
