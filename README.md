@@ -15,4 +15,4 @@
 - 🎯 &nbsp; Play Mobile legend With Me? ID 171668400
 - 📧 &nbsp; My Business Email komikers09@gmail.com
 
-[IshikawaUta](https://count.getloli.com/@IshikawaUta?name=IshikawaUta&theme=green&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto&num=171668400)
+![IshikawaUta](https://count.getloli.com/@IshikawaUta?name=IshikawaUta&theme=green&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto&num=171668400)
